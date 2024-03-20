@@ -21,7 +21,10 @@ more effective responses and ultimately saving lives
 
 ![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/60647d4c-4e78-4050-ae4c-ae11ee0de43d)
 
-#### The graph illustrates the monthly trend of hospitalized active COVID-19 cases, offering insights into the fluctuation of hospitalizations over time. This visualization aids in understanding the dynamics of COVID-19 infections requiring medical care throughout different months, providing valuable information for healthcare resource allocation and pandemic management strategies.
+#### The graph illustrates the monthly trend of hospitalized active COVID-19 cases, offering insights into the fluctuation of hospitalizations over time. 
+#### This visualization aids in understanding the dynamics of COVID-19 infections requiring medical care throughout different months, providing valuable information for healthcare resource allocation and pandemic management strategies.
+
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/39fd52f7-a39b-4820-99f6-b0538d334336)
 
 
 
