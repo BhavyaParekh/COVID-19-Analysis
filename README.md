@@ -43,6 +43,52 @@ more effective responses and ultimately saving lives
 #### The month and day-wise analysis of hospitalized cases offers a granular understanding of the temporal trends in COVID-19 hospitalizations. 
 #### This detailed examination enables the identification of peak periods and fluctuations in hospital admissions, facilitating targeted responses and resource allocation to manage healthcare capacity effectively.
 
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/c731ed1d-fbf0-4528-8769-156a5a0db262)
+
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/74ae8ac1-3b96-4b7e-abb1-793192a392e0)
+
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/3c028b48-4996-4347-9fbd-b28c30c6f967)
+
+
+### The histogram graph represents the frequency distribution of the number of COVID-19 cases over a period of 12 months.
+### This visualization illustrates the variation in case counts across different months, highlighting peaks and troughs in infection rates throughout the year. #### Such analysis aids in identifying trends and patterns in the spread of the virus over time, informing public health strategies and interventions.
+
+## Model Evaluation - Linear regression 
+• Linear regression is a statistical method used to model the relationship between a dependent variable and
+  one or more independent variables by fitting a linear equation to observed data.
+
+• The goal is to find the best-fitting line that minimizes the differences between the observed data points
+  and the predicted values by the linear model.
+
+• The equation of a simple linear regression model is represented as y = mx + b, where y is the dependent
+  variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
+
+• Linear regression is widely used for prediction and forecasting tasks when there is a linear relationship
+  between the variables of interest, making it a fundamental tool in data analysis and machine learning 
+
+## Model Evaluation - Polynomial regression 
+
+• By including higher-order polynomial terms in the regression equation, polynomial regression can
+  better capture the underlying patterns and variations in the data, making it a suitable choice for COVID-19 prediction tasks where nonlinear dynamics may be        present.
+
+• Additionally, polynomial regression can provide better fit and accuracy compared to linear regression when the relationship between the variables is nonlinear.
+
+• So we are using Polynomial regression in our project Conclusion
+
+## Conclusion
+
+• In conclusion, the COVID-19 prediction project leveraged machine learning techniques, particularly polynomial regression, to analyze and forecast the spread of     the virus.
+
+• By utilizing real-time datasets and advanced modeling approaches, the project aimed to provide valuable insights into the trajectory of the pandemic.
+
+• While linear regression served as a fundamental tool, the flexibility of polynomial regression proved essential in capturing nonlinear relationships inherent in     COVID-19 data.
+
+• Overall, the project contributes to the ongoing efforts in understanding and managing the COVID-19  pandemic through data-driven predictions and analysis
+
+
+
+
+
 
 
 
