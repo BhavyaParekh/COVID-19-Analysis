@@ -38,6 +38,13 @@ more effective responses and ultimately saving lives
 #### The age-wise cases graph showcases the distribution of COVID-19 cases across different age groups, offering valuable insights into the demographic patterns of infection rates.
 #### This visualization aids in understanding the susceptibility of various age cohorts to the virus and informs targeted public health interventions and vaccination strategies aimed at specific age demographics
 
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/c8bd3cca-34ba-4c07-8b35-1a4e32ea50f7)
+
+#### The month and day-wise analysis of hospitalized cases offers a granular understanding of the temporal trends in COVID-19 hospitalizations. 
+#### This detailed examination enables the identification of peak periods and fluctuations in hospital admissions, facilitating targeted responses and resource allocation to manage healthcare capacity effectively.
+
+
+
 
 
 
