@@ -26,12 +26,17 @@ more effective responses and ultimately saving lives
 
 ![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/70fe25ba-8f57-47f0-aa1d-ca9ff5e761ef)
 
+
+
 #### The state-wise distribution of hospitalized cases and current active cases provides a comprehensive overview of the COVID-19 situation across different regions.
 #### This analysis aids in identifying areas with higher hospitalization rates and active case burdens, guiding resource allocation and containment efforts tailored to specific states' needs.
 
 
 
 ![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/39fd52f7-a39b-4820-99f6-b0538d334336)
+
+#### The age-wise cases graph showcases the distribution of COVID-19 cases across different age groups, offering valuable insights into the demographic patterns of infection rates.
+#### This visualization aids in understanding the susceptibility of various age cohorts to the virus and informs targeted public health interventions and vaccination strategies aimed at specific age demographics
 
 
 
