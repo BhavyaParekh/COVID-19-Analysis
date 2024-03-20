@@ -18,3 +18,11 @@ more effective responses and ultimately saving lives
 ### The dataset comprises a total of 29 raw Data sourced from live data provided by "www.covid19india.org," focusing on the COVID-19 situation in India.
 ![Screenshot 2024-03-08 181759](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/c489a8aa-87ff-4be7-9fff-9fa242891947)
 
+
+![image](https://github.com/BhavyaParekh/COVID-19-Analysis/assets/123828041/60647d4c-4e78-4050-ae4c-ae11ee0de43d)
+
+#### The graph illustrates the monthly trend of hospitalized active COVID-19 cases, offering insights into the fluctuation of hospitalizations over time. This visualization aids in understanding the dynamics of COVID-19 infections requiring medical care throughout different months, providing valuable information for healthcare resource allocation and pandemic management strategies.
+
+
+
+
